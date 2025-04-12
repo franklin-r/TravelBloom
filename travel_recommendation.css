@@ -47,9 +47,11 @@ nav div {
     padding: 5px;
 }
 #home {
-    background-image: url("./img/new_york.jpg");
-    width: 100vw;
+    width:100vw;
     height:100vh;
+    background: url("./img/new_york.jpg") center center no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
 }
 #home h1 {
     color: white;
