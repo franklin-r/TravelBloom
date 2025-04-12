@@ -46,3 +46,23 @@ nav div {
     width: 70px;
     padding: 5px;
 }
+#home {
+    background-image: url("./img/new_york.jpg");
+    width: 100vw;
+    height:100vh;
+}
+#home h1 {
+    color: white;
+    font-weight: bolder;
+    font-family: Arial;
+    font-size: 65px;
+    width: 200px;
+    padding: 100px 0 10px 50px;
+}
+#home p {
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+    width: 350px;
+    padding: 10px 0 0 50px;
+}
